@@ -1,5 +1,7 @@
 # Chat-Application
 "I built a chat application using Java Sockets. It follows a client–server architecture where multiple clients can connect to a central server. The server manages client connections, broadcasts messages, and also supports private messaging. Clients can join, send messages, and exit gracefully."
+
+
 🗨️ Java Chat Application
 A multi-client chat application built in Java using sockets and multithreading.
 This application demonstrates client–server architecture where multiple clients can chat with each other in real time.
